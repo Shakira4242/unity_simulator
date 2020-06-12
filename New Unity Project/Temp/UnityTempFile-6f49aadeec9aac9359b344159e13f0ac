@@ -304,5 +304,4 @@
 /define:ENABLE_LEGACY_INPUT_MANAGER
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/Scenes/agentmove.cs"
-"Assets/Scenes/camera.cs"
+"Assets/Scripts/agentmove.cs"
